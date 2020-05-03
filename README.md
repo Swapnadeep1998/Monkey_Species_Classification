@@ -5,7 +5,7 @@ Data Source: https://www.kaggle.com/slothkong/10-monkey-species/download
 10 Species of Monkeys Classification Using CNN
 
 
-# **Techniques & Tools Used
+**Techniques & Tools Used
 
 1. tensorflow
 2. keras
